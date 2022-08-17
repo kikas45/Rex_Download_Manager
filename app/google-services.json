@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834605805818",
+    "project_id": "rxdownload-39a7b",
+    "storage_bucket": "rxdownload-39a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834605805818:android:c9db820cd7543ec402d943",
+        "android_client_info": {
+          "package_name": "com.example.rexdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834605805818-eev1thvk67qgpnf1j47v5v39r7erhihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmos9t6RvtaIl21lRlOKohwawRMv0OtOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834605805818-eev1thvk67qgpnf1j47v5v39r7erhihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
